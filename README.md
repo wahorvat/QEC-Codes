@@ -1,2 +1,2 @@
-# quantum-papers
-Implementation of quantum circuit and tensor network results
+# quantum-simulation
+Implementation of quantum circuits and tensor networks from literature
